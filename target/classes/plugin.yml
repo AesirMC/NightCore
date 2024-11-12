@@ -1,0 +1,7 @@
+name: Nightcore
+version: '1.0'
+main: org.night.nightcore.Main
+api-version: '1.18'
+commands:
+  nightcore:
+  elo:

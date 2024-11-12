@@ -1,0 +1,17 @@
+cantUpdateElo: 'Üzgünüm. Öldürdüğün oyuncunun elosu 0 olduğu için elo kazanamadın.'
+UsageCommand:
+  - '➥ /NightCore set stat statismi playername sayı: oyuncunun kill statını belirlediğin değer olarak değiştirir.'
+  - '➥ /NightCore stats statismi playername: oyuncunun o statının kaç olduğunu görmeni sağlar.'
+  - '➥ /NightCore statstop statismi: o statın liderlik tablosunu görmeni sağlar.'
+WrongUsage: 'Yanlış kullanım.'
+PlayerKillStat: ' Adlı oyuncunun kill miktarı: '
+PlayerDeathStat: ' Adlı oyuncunun ölüm miktarı: '
+PlayerStrikeStat: ' Adlı oyuncunun kill strike miktarı: '
+PlayerEloStat: ' Adlı oyuncunun elo miktarı: '
+PlayerTop: '<color:#5eb9ff> player_name ➥ value </color>'
+Listtop: '<color:#5eb8f5> ---------AesirMC--------- </color>'
+CheanceMessageKill: '<color:#5eb9ff> Birini öldürdüğün için value stat kazandın! Şu anki stat miktarın: </color>'
+CheanceMessageDeath: '<color:#5eb9ff> Öldüğün için value stat kaybettin! Şu anki stat miktarın: </color>' #value yi ve stat kelimesini dönüştürür.
+SuccesSetStat: '<color:#5eb9ff>Statlar başarı ile değiştirildi.</color>'
+EloMessageType: '<color:#5eb9ff>➥ value type </color>'
+reloadMessage: '<color:#5eb9ff>config yapılandırmaları yeniden yükleniyor.</color>'

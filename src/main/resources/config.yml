@@ -1,0 +1,21 @@
+#########################################################MySQL#########################################################
+MySQL Url:
+MySQL Username:
+MySQL Password:
+########################################################PvPStat########################################################
+AntiAbuse: 0
+AntiAbuseSecond: 600
+AutoSaveTick: 6000
+WhiteListMode: 1
+WhiteListRegions:
+  - 'koth'
+  - 'orman'
+ListCommandsActive: 1 # 1 ise aktif 0 ise deaktif
+ListCommands:
+  - 'asdasd'
+  - 'mi give asddas dasad player_name'
+########################################################Options#########################################################
+ServerName: 'ServerName'
+Language: tr_TR
+#######################################################ItemName#########################################################
+AntiItemNameAnvil: 1
